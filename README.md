@@ -9,4 +9,4 @@ Files:
 
 main.c contains the primary program for the game.
 
-stm32l1xx.c and stm32l_discovery_lcd.c contain other firmware that's been costumized to provide the symbols needed to run the game display.
+stm32l1xx.c and stm32l_discovery_lcd.c contain other firmware, written and provided by STMicroelectronics, that I costumized to provide the symbols needed to run the game display.
